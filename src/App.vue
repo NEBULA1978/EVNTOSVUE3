@@ -6,6 +6,8 @@ import VariableReactivas from './components/VariableReactivas.vue'
 import VariableReactivas2 from './components/VariableReactivas2.vue'
 import Contador from './components/Contador.vue'
 import Computed from './components/Computed.vue'
+import Practica from './components/Practica.vue'
+import PracticaBottstrap from './components/PracticaBottstrap.vue'
 
 </script>
 
@@ -17,5 +19,9 @@ import Computed from './components/Computed.vue'
 <VariableReactivas2/>
 <Contador/>
 <Computed/>
+<Practica/>
+<PracticaBottstrap/>
+
+
 </template>
 <style scoped></style>
