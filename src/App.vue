@@ -5,6 +5,7 @@ import VonParametros from './components/VonParametros.vue'
 import VariableReactivas from './components/VariableReactivas.vue'
 import VariableReactivas2 from './components/VariableReactivas2.vue'
 import Contador from './components/Contador.vue'
+import Computed from './components/Computed.vue'
 
 </script>
 
@@ -15,5 +16,6 @@ import Contador from './components/Contador.vue'
 <VariableReactivas/>
 <VariableReactivas2/>
 <Contador/>
+<Computed/>
 </template>
 <style scoped></style>
